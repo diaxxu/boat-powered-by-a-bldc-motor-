@@ -17,8 +17,8 @@ The boat features:
 - **Platform Deck**: Flat area for battery, ESC, receiver, etc.
 - **Motor Mount**: Positioned at the rear for direct propulsion.
 - **Rudder Assembly**: Suspended beneath the deck, controlled by servo via linkage.
-- **Support Arches**: Structural frames connecting pontoons to the main deck.
-- **Vertical Fin** (optional): Could be used for wind stability or sensor mounting.
+- **Support Arches**: Structural frames connecting pontoons to the main deck.(CF rods)
+
 
 ## Control System
 
