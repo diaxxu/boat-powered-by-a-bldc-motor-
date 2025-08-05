@@ -33,18 +33,13 @@ The boat features:
 - Deck: Plywood, plastic sheet, or 3D printed plate.
 - Electronics: Standard RC components or DIY flight controller.
 
-## Applications
 
-- Educational robotics project
-- Water drone or small autonomous surface vehicle
-- Test platform for RC or Arduino control
 
-## To-Do
+## suggs
 
 - Add internal compartment or waterproof box for electronics.
-- Design propeller guard for safety.
 - Integrate GPS or IMU for autonomous navigation (optional).
 
 ---
 
-**Built and modeled in Fusion 360** **this readme is made by ai**
+**this readme is made by ai**
