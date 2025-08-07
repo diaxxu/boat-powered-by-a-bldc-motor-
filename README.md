@@ -30,7 +30,7 @@ The boat features:
 
 - Pontoons: Lightweight foam, PETG, or ABS (if 3D printed).
 - Structure: PLA or carbon fiber rods for support bars.
-- Deck: Plywood, plastic sheet, or 3D printed plate.
+- Deck: Plywood, plastic sheet, or 3D printed plate. ( eps foam worked for me ! )
 - Electronics: Standard RC components or DIY flight controller.
 
 
