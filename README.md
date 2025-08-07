@@ -6,7 +6,7 @@ This is a 3D CAD model of a powered twin-pontoon boat, designed in Fusion 360. I
 
 The boat features:
 
-- Two large **pontoons** for buoyancy and stability.
+- Two large **pontoons** for buoyancy and stability. ( cnc out of foam ) 
 - A **central platform** to mount electronics or payload.
 - A **rear-mounted BLDC motor** with propeller for propulsion.
 - An **underwater rudder**, controlled by a servo motor, for steering.
