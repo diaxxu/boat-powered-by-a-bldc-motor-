@@ -22,7 +22,7 @@ The boat features:
 
 ## Control System
 
-- **BLDC Motor** with propeller, powered by LiPo and ESC.
+- **BLDC Motor** with propeller, powered by LiPo and ESC. ( could be underwater but currently its efficient enough ) 
 - **Rudder Servo** for steering.
 - **RC Receiver** or onboard controller (Arduino, Pixhawk, etc).
 
